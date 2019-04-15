@@ -48,18 +48,18 @@
         "mysql": "2.16.0",
         "async": "1.5.2",
         "express": "4.16.4",
-        "body-parser": "1.15.0",
-        "compression": "1.6.1",
-        "dot": "1.0.3",
-        "newrelic": "1.25.4",
+        "body-parser": "1.18.3",
+        "compression": "1.7.4",
+        "dot": "1.1.2",
+        "newrelic": "5.6.3",
         "colors": "1.1.2",
         "node-watch": "0.3.5",
-        "request": "2.69.0",
+        "request": "2.88.0",
         "nonce": "1.0.3",
         "bignum": "0.13.0",
         "extend": "3.0.0"
     },
     "engines": {
-        "node": ">=0.10"
+        "node": ">=10.15.3"
     }
 }
